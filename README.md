@@ -1,2 +1,2 @@
-# Handling-Imbalanced-Data-in-Building-Energy-Benchmarking
-This repository includes the analysis and report of a machine learning study created for an international academic conference IPCMC 2022.
+# Handling-Imbalanced-Data-in-Building-Energy-Benchmarking-2022
+This repository includes the analysis and report of a machine learning study performed within an academic conference: The 7th International Project and Construction Management Conference, IPCMC 2022. The study performs building energy benchmarking over an imbalanced dataset using several machine learning models and aims to reduce the classification loss by employing a cost-sensitive approach. You can access the proceedings book from this link: https://ipcmc2022.yildiz.edu.tr/proceedings-book/
